@@ -53,7 +53,7 @@
 /**
  *  首字母数据源
  */
-@property (copy,nonatomic)NSMutableArray *arrayOfCharacters;
+@property (strong,nonatomic)NSMutableArray *arrayOfCharacters;
 
 
 
